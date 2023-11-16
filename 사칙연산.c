@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	int num = 2;
-	printf("num은 %d입니다.\n", num); // 2
+	int num = 3;
+	printf("num은 %d입니다.\n", num); // 3
 
 	// 2 + 3은?
 	num = num + 3; // num += 3; 
